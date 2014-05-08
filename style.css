@@ -1,3 +1,12 @@
+#intro {
+	border: 20px;
+	color: #000000;
+}
+
+.spotlight {
+	background-color: #fefe00;
+}
+
 p {
 	color: red;
 	text-decoration: strike-through;
@@ -12,13 +21,26 @@ p {
 }
 
 h1, h2 {
-	background-color: #FF0000;
+	background-color: #888888;
 	text-decoration: line-through;
 	font-family: papyrus;
 	font-size: 50px;
 	text-transform: uppercase;
+
 }
 
 h2 {
 	text-decoration: underline;
+
+}
+
+h1 {
+	border: 20px;
+	margin-right: 100px;
+	margin-left: 20px;
+}
+
+
+body {
+	background: white url(http://media3.giphy.com/media/n7Kv7tLf2UzMk/giphy.gif) repeat top right;
 }
